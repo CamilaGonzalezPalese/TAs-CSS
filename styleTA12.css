@@ -1,0 +1,12 @@
+.primerElemento{
+    background-color: black;
+    color: white;
+}
+.segundoElemento{
+    background-color:yellow;
+
+}
+.primerElemento, .segundoElemento{ /* Selector de agrupamiento */
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman,sans-serif;
+}
